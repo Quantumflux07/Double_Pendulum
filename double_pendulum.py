@@ -4,7 +4,8 @@ from matplotlib.animation import FuncAnimation
 
 # Physical constants
 g = 9.8
-m1 = m2 = 1.0
+m1 = 1.0
+m2 = 1.0
 l1 = 1.0
 l2 = 0.8
 dt = 0.02   # SMALL = slow + smooth
